@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hezelNut00/store-prj/static/css/main.dba5b122.css",
+    "main.js": "/hezelNut00/store-prj/static/js/main.eeed292f.js",
+    "static/js/787.9a8129f0.chunk.js": "/hezelNut00/store-prj/static/js/787.9a8129f0.chunk.js",
+    "index.html": "/hezelNut00/store-prj/index.html",
+    "main.dba5b122.css.map": "/hezelNut00/store-prj/static/css/main.dba5b122.css.map",
+    "main.eeed292f.js.map": "/hezelNut00/store-prj/static/js/main.eeed292f.js.map",
+    "787.9a8129f0.chunk.js.map": "/hezelNut00/store-prj/static/js/787.9a8129f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba5b122.css",
+    "static/js/main.eeed292f.js"
+  ]
+}
