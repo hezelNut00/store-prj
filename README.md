@@ -3,7 +3,7 @@
 
 ## 프로젝트 설명
 
-### -> [보러가기]
+### -> [보러가기](https://hezelnut00.github.io/store-prj/)
 
 ### 기간 
 진행중
